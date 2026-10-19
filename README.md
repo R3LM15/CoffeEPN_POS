@@ -2,7 +2,7 @@
 
 ### Tarea: Módulo de Ventas (POS)
 ### Integrantes:
-- Integrante 1
+- Dayana Martinez 
 - Jarvin Rios
 - Mateo Molina
 ---
